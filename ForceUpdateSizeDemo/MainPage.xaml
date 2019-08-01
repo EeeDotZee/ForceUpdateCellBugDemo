@@ -22,9 +22,9 @@
                     </ViewCell>
                     <!-- 
                         ********
-                        NOTICE: The bug only occurs i nest a StackLayout inside an Absolute Layout. 
-                        Having only the StackLayout without the AbsoluteLayout would result,
-                        that the text would still be visible (even though the cell would not.
+                        NOTICE: The bug only occurs if i nest a StackLayout inside an Absolute Layout. 
+                        Having only the StackLayout without the AbsoluteLayout would result
+                        that the text would still be visible (even though the cell would not.)
                     
                         PS: The bug only appears for the first time the button is hit.
                         ********
