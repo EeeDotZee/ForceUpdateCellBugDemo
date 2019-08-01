@@ -17,12 +17,6 @@ namespace ForceUpdateSizeDemo
         {
             InitializeComponent();
         }
-        protected override void OnAppearing()
-        {
-            Task.Delay(2000);
-         
-        }
-
 
         void Handle_Clicked(object sender, System.EventArgs e)
         {
