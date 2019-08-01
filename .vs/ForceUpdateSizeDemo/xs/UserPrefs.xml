@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{4B2B26E0-C234-4D43-A3CE-FE0B5A5E1EAD}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ForceUpdateSizeDemo/MainPage.xaml.cs">
+    <Files>
+      <File FileName="ForceUpdateSizeDemo/MainPage.xaml" Line="1" Column="1" />
+      <File FileName="ForceUpdateSizeDemo/MainPage.xaml.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ForceUpdateSizeDemo" expanded="True">
+            <Node name="ForceUpdateSizeDemo" expanded="True">
+              <Node name="MainPage.xaml.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>buffer</Value>
+          <Value>payloadLen</Value>
+          <Value>offset</Value>
+          <Value>pumpOnly</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ForceUpdateSizeDemo FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.ItemProperties.ForceUpdateSizeDemo.iOS FirstBuild="True" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.33DFAE04-DB3F-40B0-80DD-6F000A3CE445" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

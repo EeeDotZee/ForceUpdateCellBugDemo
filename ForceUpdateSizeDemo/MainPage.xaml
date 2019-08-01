@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:d="http://xamarin.com/schemas/2014/forms/design" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" mc:Ignorable="d" x:Class="ForceUpdateSizeDemo.MainPage">
+    <AbsoluteLayout>
+      
+        <TableView HasUnevenRows="true" Intent="Menu" AbsoluteLayout.LayoutBounds="0, 1, 1, 1" AbsoluteLayout.LayoutFlags="All">
+            <TableRoot>
+                <TableSection Title="Demo">
+                    <ViewCell Height="42">
+                        <StackLayout>
+                            <Label Text="I am cell number One" VerticalOptions="CenterAndExpand"/>
+                        </StackLayout>
+                    </ViewCell>
+                     <ViewCell Height="42">
+                        <StackLayout>
+                            <Label Text="I am cell number Two" VerticalOptions="CenterAndExpand"/>
+                        </StackLayout>
+                    </ViewCell>
+                     <ViewCell Height="42">
+                        <StackLayout>
+                            <Label Text="I am cell number Three" VerticalOptions="CenterAndExpand"/>
+                        </StackLayout>
+                    </ViewCell>
+                    <!-- 
+                        ********
+                        NOTICE: The bug only occurs i nest a StackLayout inside an Absolute Layout. 
+                        Having only the StackLayout without the AbsoluteLayout would result,
+                        that the text would still be visible (even though the cell would not.
+                    
+                        PS: The bug only appears for the first time the button is hit.
+                        ********
+                    -->
+                     <ViewCell Height="0" x:Name="AppearingCell">
+                        <AbsoluteLayout>
+                            <StackLayout Orientation="Horizontal" Padding="13, 0" AbsoluteLayout.LayoutBounds="0, 0, 1, 1" AbsoluteLayout.LayoutFlags="All">
+                                <Label Text="I am the appearing Cell!" VerticalOptions="CenterAndExpand"/>
+                            </StackLayout>
+                        </AbsoluteLayout>
+                    </ViewCell>
+                </TableSection>
+            </TableRoot>
+        </TableView>
+          <StackLayout AbsoluteLayout.LayoutBounds="0, 1, 1, 0.1" AbsoluteLayout.LayoutFlags="All">
+             <Button Text="Hide and Unhide" HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand" Clicked="Handle_Clicked"></Button>
+        </StackLayout>
+    </AbsoluteLayout>
+</ContentPage>

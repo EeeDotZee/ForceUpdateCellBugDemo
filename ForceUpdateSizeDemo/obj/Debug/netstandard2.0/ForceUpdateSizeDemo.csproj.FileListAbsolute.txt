@@ -1,0 +1,14 @@
+/Users/Eliasgrauss/Projects/ForceUpdateSizeDemo/ForceUpdateSizeDemo/bin/Debug/netstandard2.0/ForceUpdateSizeDemo.deps.json
+/Users/Eliasgrauss/Projects/ForceUpdateSizeDemo/ForceUpdateSizeDemo/bin/Debug/netstandard2.0/ForceUpdateSizeDemo.dll
+/Users/Eliasgrauss/Projects/ForceUpdateSizeDemo/ForceUpdateSizeDemo/bin/Debug/netstandard2.0/ref/ForceUpdateSizeDemo.dll
+/Users/Eliasgrauss/Projects/ForceUpdateSizeDemo/ForceUpdateSizeDemo/bin/Debug/netstandard2.0/ForceUpdateSizeDemo.pdb
+/Users/Eliasgrauss/Projects/ForceUpdateSizeDemo/ForceUpdateSizeDemo/obj/Debug/netstandard2.0/ForceUpdateSizeDemo.csprojAssemblyReference.cache
+/Users/Eliasgrauss/Projects/ForceUpdateSizeDemo/ForceUpdateSizeDemo/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/Eliasgrauss/Projects/ForceUpdateSizeDemo/ForceUpdateSizeDemo/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/Eliasgrauss/Projects/ForceUpdateSizeDemo/ForceUpdateSizeDemo/obj/Debug/netstandard2.0/ForceUpdateSizeDemo.csproj.CoreCompileInputs.cache
+/Users/Eliasgrauss/Projects/ForceUpdateSizeDemo/ForceUpdateSizeDemo/obj/Debug/netstandard2.0/ForceUpdateSizeDemo.AssemblyInfoInputs.cache
+/Users/Eliasgrauss/Projects/ForceUpdateSizeDemo/ForceUpdateSizeDemo/obj/Debug/netstandard2.0/ForceUpdateSizeDemo.AssemblyInfo.cs
+/Users/Eliasgrauss/Projects/ForceUpdateSizeDemo/ForceUpdateSizeDemo/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/Eliasgrauss/Projects/ForceUpdateSizeDemo/ForceUpdateSizeDemo/obj/Debug/netstandard2.0/ForceUpdateSizeDemo.dll
+/Users/Eliasgrauss/Projects/ForceUpdateSizeDemo/ForceUpdateSizeDemo/obj/Debug/netstandard2.0/ref/ForceUpdateSizeDemo.dll
+/Users/Eliasgrauss/Projects/ForceUpdateSizeDemo/ForceUpdateSizeDemo/obj/Debug/netstandard2.0/ForceUpdateSizeDemo.pdb
